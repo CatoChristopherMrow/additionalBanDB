@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated": "2026-05-21",
+  "sources": [
+    {
+      "name": "Example Station One",
+      "roleplayLevel": "Medium",
+      "url": "https://example-station-one.example/api/ban"
+    },
+    {
+      "name": "Example Station Two",
+      "roleplayLevel": "High",
+      "url": "https://example-station-two.example/api/ban"
+    }
+  ]
+}
